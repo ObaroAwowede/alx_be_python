@@ -9,9 +9,9 @@ if operation == "+":
 if operation == "-":
     result = num1 - num2
     print("the result is ", result)
-if operation == "/":
-    result = num1 / num2
-    print("the result is ", result)
 if operation == "*":
     result = num1 * num2
+    print("the result is ", result)
+if operation == "/":
+    result = num1 / num2
     print("the result is ", result)
